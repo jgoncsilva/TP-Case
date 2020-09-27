@@ -1,0 +1,28 @@
+
+They mission is to provide customer  -> their mission**
+
+"maximum value is 4.0 therefore scale goes until 5" nao percebo isto, nao deveria ser entao de 0-4? essa parte esta confusa
+
+For this we have to look how SLA is  builded  -> for this we have to look at how a SLA is built*
+
+
+We will need to verify well, because apparently the metrics established in the Business case proposal do not match those of the DataSet in terms of numbers
+-> isto está confuso, nao percebi porque dizes isso, com base em que? quantifica isso, é o numero de fields?
+
+
+Answer rate -> adiciona uma linha a explicar o que é essa métrica
+
+
+comentário geral: ha muitas cells que nao tem o output ligado -> o das figuras. garante que todas tem output
+
+
+Olhando para as tuas sections todas acho que estas a fazer demasiada analise. acho que o que fizeste agora já é tecnicamente muito avançado.
+
+IMPORTANTE:
+o grande feedback que tenho aqui é que todo o teu codigo é algoritmico e zeo "critico" ou seja tu dizes que ha Nans e tal, mas nao dás significado às colunas. nao olhas para os dados e dizes coisas como "I notice here that..."
+
+Portanto o meu principal feedback para isto ficar perfeito é:
+- melhorar o ingles (dicas acima)
+- incluir uma secção de bulllet points no final de algumas conclusoes que encontraste nos dados.
+
+se fizeres isso + o power BI acho que está incrivel
